@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Tip Calculator</string>
+    <string name="app_txt">Digite um valor ex: 35.50</string>
+    <string name="app_txt0">0%</string>
+    <string name="app_txt1">Gorjeta</string>
+    <string name="app_txt2">Total</string>
+    <string name="app_txt3">R$</string>
 </resources>
